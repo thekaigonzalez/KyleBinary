@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/kylebinary
+kylebinary.so
+kylebinary.dylib
+kylebinary.dll
+kylebinary.a
+kylebinary.lib
+kylebinary-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.pdb

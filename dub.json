@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"seymo"
+	],
+	"copyright": "Copyright © 2022, seymo",
+	"dependencies": {
+		"kyle": "~>1.0.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "kylebinary"
+}
